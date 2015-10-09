@@ -18,7 +18,7 @@
  ****************************************************************************/
 #ifndef _LINUX_AUXVEC_H
 #define _LINUX_AUXVEC_H
-#include <uapi/linux/auxvec.h>
+#include "../../uapi/linux/auxvec.h"
 #define AT_VECTOR_SIZE_BASE 19
 /* WARNING: DO NOT EDIT, AUTO-GENERATED CODE - SEE TOP FOR INSTRUCTIONS */
 #endif
